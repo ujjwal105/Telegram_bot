@@ -1,0 +1,7 @@
+TELEGRAM_BOT_API = Your Telegram BOT API
+ 
+Mongo_Connect_string = Your MongoDB Compass String
+
+OPENAI_KEY = Your OpenAI Key
+
+OpenAI_Model = gpt-3.5-turbo
