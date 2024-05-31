@@ -28,7 +28,6 @@ This command generates a social media post caption based on the user's most rece
 Hey! @User, kindly wait for a moment. I am creating posts for you 🚀⏳
 
 "Enjoying a sunny day at the park! Feeling so relaxed and happy. 🌞 #Relaxation #SunnyDay"
-
 ```
 
 ### `/help`
@@ -66,7 +65,6 @@ If you have any questions or need assistance, feel free to contact the bot admin
    ```
    cd SocioBot
    npm install
-   
    ```
 3. Set up your environment variables in a `.env` file:
    ```
@@ -77,7 +75,6 @@ If you have any questions or need assistance, feel free to contact the bot admin
 4. Start the bot:
    ```
    node server.js
-   
    ```
 
 ## Contributing
@@ -86,4 +83,4 @@ We welcome contributions to enhance the functionality of this bot. Feel free to 
 
 ---
 
-Enjoy generating creative social media posts with ease! If you have any questions or feedback, please reach out through the issues section on GitHub or contact the bot admin: @yourusername.
+Enjoy generating creative social media posts with ease! If you have any questions or feedback, please reach out through the issues section on GitHub or contact the bot admin: @Tyagi_011.
