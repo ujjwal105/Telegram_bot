@@ -68,7 +68,19 @@ bot.start(async (ctx) => {
 });
 
 bot.help((ctx)=>{
-   ctx.reply("For Support contact @Tyagi_011")
+   ctx.reply("
+             `
+             Hi! I'm your social media caption generator bot. Here's how you can use me:
+
+/generate - Generate a social media post caption based on your recent activity and feeling.
+/help - Get a list of commands and how to use them.
+
+To get started, simply describe what you're doing and how you're feeling, and I'll help you create a great post!
+
+If you have any questions or need assistance, feel free to contact the bot admin: @yourusername
+
+             `
+             ")
 })
 
 bot.command('generate', async(ctx)=>{
